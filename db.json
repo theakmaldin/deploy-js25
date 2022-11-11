@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "category": "Футболка",
+      "title": "ФУТБОЛКА CLR Black",
+      "model": "Mod",
+      "description": "Best t-short",
+      "color": "Blue",
+      "price": "300",
+      "img1": "https://static.tildacdn.com/tild3437-3931-4334-a130-303733393439/Group_5.jpg",
+      "img2": "https://static.tildacdn.com/tild6263-3635-4034-b433-616138326139/IMG_3661.jpg",
+      "img3": "https://static.tildacdn.com/ti6361-6634-4561-b137-623965343764/IMG_3662.jpg",
+      "id": 2
+    },
+    {
+      "category": "Худи",
+      "title": "ХУДИ CLR black",
+      "model": "Model",
+      "description": "Best Azret",
+      "color": "ORANGE",
+      "price": "200",
+      "img1": "https://static.tildacdn.com/tild3935-3634-4437-b335-343831393139/_.jpg",
+      "img2": "https://static.tildacdn.com/tild6636-6630-4633-b431-626636303566/IMG_6407.jpg",
+      "img3": "https://static.tildacdn.com/tild3736-6262-4866-b533-306562663766/IMG_6415.jpg",
+      "id": 3
+    },
+    {
+      "category": "Свитшот",
+      "title": "СВИТШОТ CLR WHITE",
+      "model": "Model",
+      "description": "Best Azret",
+      "color": "white",
+      "price": 50,
+      "img1": "https://static.tildacdn.com/tild3661-3630-4633-a131-653163386135/_-2.jpg",
+      "img2": "https://static.tildacdn.com/tild6466-3064-4633-b362-633231633236/IMG_3788.jpg",
+      "img3": "https://static.tildacdn.com/tild3432-3566-4361-b536-616232383834/IMG_3789.jpg",
+      "id": 4
+    },
+    {
+      "category": "Azret",
+      "title": "Azret",
+      "model": "model 3000",
+      "description": "BEst",
+      "color": "Black",
+      "price": 500,
+      "img1": "Azre",
+      "img2": "Azre",
+      "img3": "Azret",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "name": "Arlen",
+      "comment": "Сайт очень крутой мне понравились вещи",
+      "id": 1
+    },
+    {
+      "name": "Мирдин",
+      "comment": "Сайт не много не доделали, а так вообщем круто",
+      "id": 2
+    },
+    {
+      "name": "фыва",
+      "comment": "фыв",
+      "id": 3
+    },
+    {
+      "name": "ыфв",
+      "comment": "ыфв",
+      "id": 4
+    },
+    {
+      "name": "цываыва",
+      "comment": "ыфв",
+      "id": 5
+    },
+    {
+      "name": "Akmaldin",
+      "comment": "test",
+      "id": 6
+    },
+    {
+      "name": "Akmaldin",
+      "comment": "Bast ",
+      "id": 7
+    }
+  ]
+}

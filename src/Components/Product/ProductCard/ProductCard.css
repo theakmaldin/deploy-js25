@@ -1,0 +1,39 @@
+.cardHeader {
+  text-align: center;
+  font-family: "Basis Grotesque Pro";
+  font-style: normal;
+}
+
+.cardMedia {
+  transition: 1s;
+}
+
+.cardMedia:hover {
+  transform: scale(1.03);
+}
+
+.cardHeader::before {
+  position: relative;
+  content: "€ ";
+  color: black;
+  right: -41%;
+  top: 12px;
+  font-size: 24px;
+}
+.cardHeader span:first-child {
+  color: #080b13;
+  font-weight: 500;
+  font-size: 18px;
+  opacity: 0.4;
+}
+
+.cardHeader span:last-child {
+  font-weight: 500;
+  font-size: 24px;
+  color: #080b13;
+}
+
+.card:hover {
+  transform: scale(1.2);
+  transition: 1s;
+}

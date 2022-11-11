@@ -1,0 +1,28 @@
+* {
+  box-shadow: none;
+}
+.burger {
+  width: 70%;
+  display: flex;
+  justify-content: space-around;
+  color: black;
+}
+.linkFabel {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+@media all and (max-width: 990px) {
+  .burger {
+    display: none;
+  }
+}
+@media all and (max-width: 390px) {
+  .boxAvatar {
+    width: 0%;
+  }
+  .searchNavbar {
+    display: none;
+  }
+  .linkFabel {
+    padding-right: 100px;
+  }
+}
