@@ -4,7 +4,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 
 export const productContext = createContext();
 
-const API = "http://localhost:8000/products";
+const API = "https://js25-project-fabel.herokuapp.com/products";
 const API2 = "http://localhost:8000/comments";
 const INIT_STATE = {
   products: null,
